@@ -27,4 +27,4 @@ npm run dev
 # 3. Build for production
 npm run build
 ```
-http://world.-com/
+https://warld-sdk.github.io/world..com
